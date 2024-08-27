@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(114, 176, 201);
+    color: black;
+}
+
+nav{
+    text-align: center;
+}
+
+nav a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(45, 119, 153);
+    font-weight: bold;
+}
+
+a:hover{
+    background-color: rgb(81, 157, 170);
+}
+
+div a{
+    color: rgb(45, 119, 153);
+    text-decoration: none;
+}
+h1{
+    font-size: 36px;
+    text-align: center;
+}
+
+h2{
+    font-size: 32px;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+div{
+    text-align: center;
+    font-weight: bold
+}
+
+div img{
+    border: solid rgb(0, 0, 0) 5px;
+    border-radius: 16px;
+}
+    
+small{
+    font-size: 17px;
+}
